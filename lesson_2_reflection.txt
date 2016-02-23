@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 A .git directory/folder will be created.  The command is "git init".
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a place where temporarily changes are stored and these changes are to be applied to the repository when the next commit is performed.
