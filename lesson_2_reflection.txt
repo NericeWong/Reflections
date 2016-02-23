@@ -10,3 +10,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
      Do git add the set of files involved in a logical change, which place the set of files in the staging area.  Then do git commit to place those changed files to the respository.
      
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+     For experimental codes and/or different languages
