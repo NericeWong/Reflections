@@ -13,3 +13,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
      For experimental codes and/or different languages
+
+How do the diagrams help you visualize the branch structure?
+
+     Extremely helpful. Also pay attention to the possibility of the lost branches.  May have to record down the Commit IDs so that we can get back there if necessary
+
