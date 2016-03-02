@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
      Extremely helpful. Also pay attention to the possibility of the lost branches.  May have to record down the Commit IDs so that we can get back there if necessary
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+     Changes from both branches are combined. Diagram helps the understanding of the situation.
+
