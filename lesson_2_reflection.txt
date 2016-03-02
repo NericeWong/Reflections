@@ -22,3 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
      Changes from both branches are combined. Diagram helps the understanding of the situation.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+     Auto makes merging of codes, especially with multiple files, a lot easier and it also helps identifying the conflicts.
